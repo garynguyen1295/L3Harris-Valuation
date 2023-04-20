@@ -19,20 +19,12 @@ The following screenshots show some of the key outputs of the DCF valuation mode
 - 5-Year Projection of the Income Statement
 
 ![Projection of the Income Statement](https://raw.githubusercontent.com/garynguyen1295/L3Harris-Valuation/bfdccd8040a455d38fa69119d2149a24169d7496/images/income_statement_projection.png)
-
 - Calculation of Implied Perpetual Growth Rate
 
-
-
 - Share Price Calculation
-
 ![share price calculation](https://raw.githubusercontent.com/garynguyen1295/L3Harris-Valuation/master/images/share_price_calculation.png)
 
-
-
 To view the screenshots, please navigate to the "images" folder.
-
-
 
 ## Disclaimer
 
