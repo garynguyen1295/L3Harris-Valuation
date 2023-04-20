@@ -26,7 +26,7 @@ The following screenshots show some of the key outputs of the DCF valuation mode
 
 - Share Price Calculation
 
-![share price calculation](https://user-images.githubusercontent.com/45898995/119709090-a64aaa80-be7e-11eb-91bc-4870483b1401.png)
+![share price calculation](https://raw.githubusercontent.com/garynguyen1295/L3Harris-Valuation/master/images/share_price_calculation.png)
 
 
 
@@ -34,6 +34,7 @@ To view the screenshots, please navigate to the "images" folder.
 
 
 
+## Disclaimer
 
 The analysis is based on publicly available financial data and assumes certain business and economic conditions. The results of the analysis are from my own analysis and should not be construed as investment advice.
 
